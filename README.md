@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there
+I'm a 20 year old developer (backend)
 
-<!--
-**scrap/scrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥 Current
+I'm working on [pebblo](https://discord.gg/aWGXuD9). It's a multipurpose social media platform, our current goal is to be able to attract people from around the world together to share stories, meet new friends & have a laugh.
 
-Here are some ideas to get you started:
+## ✨ Knowledge
+I am most fluent with JavaScript, but also work with Python, C++ and Java ocasionally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+To contact me quickly and easily, DM me on discord Imposed#0438.
+
+If it's something more business related, email me: me@impd.cc
