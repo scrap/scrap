@@ -8,6 +8,6 @@ I'm working on [pebblo](https://discord.gg/aWGXuD9). It's a multipurpose social 
 I am most fluent with JavaScript, but also work with Python, C++ and Java ocasionally.
 
 ## 📬 Contact
-To contact me quickly and easily, DM me on discord Imposed#0438.
+To contact me quickly and easily, DM me on discord Imposed#0001.
 
 If it's something more business related, email me: me@impd.cc
