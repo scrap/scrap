@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hi@impd.cc** or dm me on discord **Imposed#1337**
 
-- ⚡ Fun fact **Sometimes I cover my self in Vaseline and slither around my house like a slug.**
+- ⚡ Fun fact **Sometimes I cover myself in Vaseline and slither around my house like a slug.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
